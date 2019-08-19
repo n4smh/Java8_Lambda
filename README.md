@@ -1,7 +1,7 @@
 # JavaBrains_Java8_Lambda
 Repo contains Java 8 lambda basics code created by refering to JavaBrains.  <br />
 
-### Lambda:
+### Why lambda?
   * Enables functional programming
   * Readable and concise code
   * Easier-to-use API's and libraries
