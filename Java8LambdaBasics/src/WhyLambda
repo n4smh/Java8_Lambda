@@ -1,0 +1,12 @@
+Lambda:
+	Enables functional programming
+	Readable and concise code
+	Easier-to-use API's and libraries
+	Enables support for parallel processing
+	
+Things covered:
+	Understanding lambdas
+	Using lambdas
+	Functional interfaces
+	Method references
+	Collection improvements	
