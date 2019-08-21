@@ -1,4 +1,4 @@
-# JavaBrains_Java8_Lambda
+# Java8_Lambda
 Repo contains Java 8 lambda basics code created by refering to JavaBrains.  <br />
 
 ### Why lambda?
